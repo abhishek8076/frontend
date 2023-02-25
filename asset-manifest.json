@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Netflix/static/css/main.f09c72a3.css",
-    "main.js": "/Netflix/static/js/main.cfb15a81.js",
-    "static/media/adam.jpg": "/Netflix/static/media/adam.d3b04faffd23d58a55ad.jpg",
-    "static/media/my.jpg": "/Netflix/static/media/my.1fbf4c8e39f71251917e.jpg",
-    "static/media/WedLogo.png": "/Netflix/static/media/WedLogo.3d0a82fc2a5f2e0dd30f.png",
-    "static/media/wed.jpg": "/Netflix/static/media/wed.418b8ddf292020c1579d.jpg",
-    "static/media/logo.png": "/Netflix/static/media/logo.b39480d09d45609d9d6f.png",
-    "index.html": "/Netflix/index.html",
-    "main.f09c72a3.css.map": "/Netflix/static/css/main.f09c72a3.css.map",
-    "main.cfb15a81.js.map": "/Netflix/static/js/main.cfb15a81.js.map"
+    "main.css": "/frontend/static/css/main.f09c72a3.css",
+    "main.js": "/frontend/static/js/main.383fc3a6.js",
+    "static/media/adam.jpg": "/frontend/static/media/adam.d3b04faffd23d58a55ad.jpg",
+    "static/media/my.jpg": "/frontend/static/media/my.1fbf4c8e39f71251917e.jpg",
+    "static/media/WedLogo.png": "/frontend/static/media/WedLogo.3d0a82fc2a5f2e0dd30f.png",
+    "static/media/wed.jpg": "/frontend/static/media/wed.418b8ddf292020c1579d.jpg",
+    "static/media/logo.png": "/frontend/static/media/logo.b39480d09d45609d9d6f.png",
+    "index.html": "/frontend/index.html",
+    "main.f09c72a3.css.map": "/frontend/static/css/main.f09c72a3.css.map",
+    "main.383fc3a6.js.map": "/frontend/static/js/main.383fc3a6.js.map"
   },
   "entrypoints": [
     "static/css/main.f09c72a3.css",
-    "static/js/main.cfb15a81.js"
+    "static/js/main.383fc3a6.js"
   ]
 }
